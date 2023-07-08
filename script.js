@@ -30,7 +30,7 @@ setInterval(changeImage, 3000);
       });
   }
   function downloadArchive() {
-    window.location.href = "https://drive.google.com/file/d/1u2ZEV89Ewuv-4Qk_QDImo40N3uyA2a2M/view?usp=drive_link"; // Замініть на шлях до вашого архіву
+    window.location.href = "https://drive.google.com/file/d/1jcEtnr-BykiX2ynXuWLMRYqFW-wnHW2O/view?usp=drive_link"; // Замініть на шлях до вашого архіву
   }
   function goToLink() {
     window.location.href = "https://discord.gg/hSkWTjd9r"; // Замініть на ваше посилання на Discord
