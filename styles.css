@@ -8,6 +8,11 @@ html {
     src: url('Font/font.ttf') format('truetype');
 }
 
+label{
+  font-family: "Minecraft", sans-serif;
+  font-size: 1em; 
+}
+
 h1 {
     margin: auto;
     font-family: "Minecraft", sans-serif;
